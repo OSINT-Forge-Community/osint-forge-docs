@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo_osint_forge_txt_right.png" alt="OSINT Forge" width="700"/>
+<img src="images/logo_osint_forge_docs.png" alt="OSINT Forge" width="700"/>
 
 **Forging open-source intelligence skills, responsibly.**
 
