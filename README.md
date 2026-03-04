@@ -8,13 +8,13 @@
 
 [![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge&logo=github)](https://github.com/OSINT-Forge-Community/osint-forge-docs)
 [![Community](https://img.shields.io/badge/Community-Open-brightgreen?style=for-the-badge&logo=opensourceinitiative)](https://github.com/OSINT-Forge-Community)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3A3g5hJnqd)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YXb5C3Nvgb)
 [![Ethics](https://img.shields.io/badge/Ethics-First-red?style=for-the-badge&logo=shieldsdotio)](https://osint-forge.com)
 
 <br/>
 
 [🌐 Website](https://osint-forge.com) &nbsp;·&nbsp;
-[💬 Discord](https://discord.gg/3A3g5hJnqd) &nbsp;·&nbsp;
+[💬 Discord](https://discord.gg/YXb5C3Nvgb) &nbsp;·&nbsp;
 [📬 Contact](mailto:contact@osint-forge.com) &nbsp;·&nbsp;
 [🔐 Security](mailto:security@osint-forge.com) &nbsp;·&nbsp;
 [🐛 Issues](https://github.com/OSINT-Forge-Community/osint-forge-docs/issues)
@@ -130,7 +130,7 @@ Phase 4 — Community Onboarding            ░░░░░░░░░░░░
 Phase 5 — Public Alpha Release            ░░░░░░░░░░░░░░░░░░░░   Planned
 ```
 
-Public testing phases (alpha/beta) will be announced in this repository and on [Discord](https://discord.gg/3A3g5hJnqd).
+Public testing phases (alpha/beta) will be announced in this repository and on [Discord](https://discord.gg/YXb5C3Nvgb).
 
 ---
 
@@ -155,7 +155,7 @@ This repository is **public** and contains:
 <table>
   <tr>
     <td align="center">
-      <a href="https://discord.gg/3A3g5hJnqd">
+      <a href="https://discord.gg/YXb5C3Nvgb">
         <strong>💬 Join the Discord</strong><br/>
         <sub>Talk, share, and learn with the community</sub>
       </a>
@@ -188,7 +188,7 @@ This repository is **public** and contains:
 | Channel | Link |
 |---|---|
 | 🌐 Website | [osint-forge.com](https://osint-forge.com) |
-| 💬 Discord | [discord.gg/3A3g5hJnqd](https://discord.gg/3A3g5hJnqd) |
+| 💬 Discord | [discord.gg/YXb5C3Nvgb](https://discord.gg/YXb5C3Nvgb) |
 | 📬 General contact | [contact@osint-forge.com](mailto:contact@osint-forge.com) |
 | 🔐 Security reports | [security@osint-forge.com](mailto:security@osint-forge.com) |
 | 🐛 Bug reports | [GitHub Issues](https://github.com/OSINT-Forge-Community/osint-forge-docs/issues) |
@@ -208,6 +208,6 @@ It is not affiliated with any government agency, intelligence service, or law en
 
 [![GitHub](https://img.shields.io/badge/GitHub-OSINT--Forge--Community-181717?style=flat-square&logo=github)](https://github.com/OSINT-Forge-Community)
 [![Website](https://img.shields.io/badge/Website-osint--forge.com-0078D4?style=flat-square&logo=googlechrome&logoColor=white)](https://osint-forge.com)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/3A3g5hJnqd)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YXb5C3Nvgb)
 
 </div>

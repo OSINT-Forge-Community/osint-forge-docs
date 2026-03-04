@@ -79,5 +79,5 @@ All contributions must comply with the OSINT Forge ethics policy:
 
 ## Contact
 
-- 💬 Discord: [discord.gg/3A3g5hJnqd](https://discord.gg/3A3g5hJnqd)
+- 💬 Discord: [discord.gg/YXb5C3Nvgb](https://discord.gg/YXb5C3Nvgb)
 - 📬 Email: [contact@osint-forge.com](mailto:contact@osint-forge.com)
