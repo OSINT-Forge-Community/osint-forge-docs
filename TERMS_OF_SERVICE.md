@@ -85,8 +85,11 @@ property laws.
 proprietary and private. It is not publicly available, not open source, and not
 open to external contributions of any kind.
 
-**This repository:** The public documentation contained in this repository is
-licensed under [CC BY-NC-SA 4.0](./LICENSE).
+**This repository:** The documentation, logos, images, banners, and other
+materials contained in this repository are proprietary and remain the exclusive
+property of OSINT Forge, unless otherwise stated in writing. Public access to
+this repository does not grant any right to reuse, redistribute, or create
+derivative works from its contents.
 
 You may not reproduce, distribute, or create derivative works from our proprietary
 content without prior written consent.

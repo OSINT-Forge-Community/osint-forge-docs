@@ -147,6 +147,10 @@ This repository is **public** and contains:
 | 🔐 Security policy | Responsible disclosure process |
 
 > The **core application code is private** and maintained separately.
+> All repository content, including documentation, logos, images, banners, and
+> branding assets, remains the exclusive property of OSINT Forge.
+> Public access does **not** grant reuse or redistribution rights without prior
+> written permission. See [LICENSE](./LICENSE).
 
 ---
 

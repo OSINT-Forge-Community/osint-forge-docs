@@ -1,30 +1,30 @@
-# Content License
+## OSINT Forge Proprietary License
 
-Copyright (c) 2026 OSINT Forge Community
+Copyright (c) 2026 OSINT Forge
+All rights reserved.
 
----
+This repository and its contents are the exclusive property of OSINT Forge,
+unless otherwise stated in writing.
 
-The documentation, guides, community resources, and all written content
-published in this repository and on the OSINT Forge platform are licensed under the
+This includes, without limitation:
 
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-(CC BY-NC-SA 4.0)**
+- Source code and code snippets
+- Documentation and written content
+- Logos, brand elements, and visual identity
+- Images, graphics, banners, and design assets
+- Project structure, layouts, and original materials
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+No part of this repository may be copied, reproduced, modified, distributed,
+published, sublicensed, sold, or used to create derivative works without prior
+written permission from OSINT Forge.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit to OSINT Forge and provide
-  a link to this repository
-- **NonCommercial** — You may not use the material for commercial purposes
-- **ShareAlike** — If you remix or adapt the material, you must distribute your
-  contributions under the same license
+Public availability of this repository does not grant any license to use,
+reproduce, or redistribute its contents beyond viewing them for informational
+purposes.
 
-See the full license at: https://creativecommons.org/licenses/by-nc-sa/4.0/
+The OSINT Forge application, platform source code, branding, and media assets
+are proprietary and private. They are not open source and are not available for
+reuse under any open-content or open-source license.
 
----
-
-> **Note:** The OSINT Forge platform source code is **proprietary and private**.
-> It is not covered by this license and is not available for use, reproduction,
-> or distribution under any circumstances.
+For licensing requests or written authorization, contact:
+contact@osint-forge.com
