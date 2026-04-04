@@ -148,7 +148,7 @@ This repository is **public** and contains:
 
 > The **core application code is private** and maintained separately.
 > All repository content, including documentation, logos, images, banners, and
-> branding assets, remains the exclusive property of OSINT Forge.
+> branding assets, remains the exclusive property of Azouriss.
 > Public access does **not** grant reuse or redistribution rights without prior
 > written permission. See [LICENSE](./LICENSE).
 
